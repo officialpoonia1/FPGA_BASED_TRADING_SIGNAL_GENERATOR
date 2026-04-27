@@ -39,7 +39,7 @@ File Structure
 * volume_filter.v – Volume confirmation
 * signal_aggregator.v – Decision engine
 * top.v – System integration
-* tb_top.v – Testbench
+* tb_top_manual.v – Testbench
 
 Simulation
 
